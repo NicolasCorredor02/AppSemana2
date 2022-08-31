@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppSemana2</string>
+    <string name="titulo">Creacion de contacto</string>
+    <string name="editTextNombre">Nombre completo</string>
+    <string name="editTextTelefono">Telefono</string>
+    <string name="editTextEmail">E-mail</string>
+    <string name="txtFecha">Ingrese la fecha de nacimiento</string>
+    <string name="txtDescripcion">Descripcion del contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="txtConfirmaDatos">Confirmar datos</string>
+    <string name="txtViewFecha">Fecha de nacimiento</string>
+    <string name="pEnvioNombre">nombre</string>
+    <string name="pEnvioFecha">fecha</string>
+    <string name="pEnvioTelefono">telefono</string>
+    <string name="pEnvioEmail">email</string>
+    <string name="pEnvioDescp">descripcion</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tamañoTitulo">25dp</dimen>
+    <dimen name="sizeTxtDescripcion">18dp</dimen>
+    <dimen name="sizeTxtEditText">15dp</dimen>
+</resources>
